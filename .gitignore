@@ -1,0 +1,18 @@
+# secrets
+.secrets/
+**/*.env
+**/*.env.*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+rag/mcp-venv/
+
+# editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
